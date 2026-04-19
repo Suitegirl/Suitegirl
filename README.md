@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suitegirl
-- 👀 I’m interested in ... HTML/CSS/Javascript & Netsuite Development
-- 🌱 I’m currently learning ... as much as I can!
-- 💞️ I’m looking to collaborate on ... anything cool!
+- 👀 I’m interested in ... NetSuite Development & AI Coding
+- 🌱 I’m currently learning ... as much as I can all the time!
+- 💞️ I’m looking to collaborate on ... projects that make business easier or faster!
 - 📫 How to reach me ... suitegirl.net@gmail.com
 
 <!---
